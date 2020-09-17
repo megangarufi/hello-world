@@ -1,2 +1,3 @@
 # hello-world
-MG learning about github
+MG learning about github 
+I just ate Panera for lunch
