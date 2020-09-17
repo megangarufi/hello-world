@@ -1,3 +1,3 @@
 # hello-world
 MG learning about github
-I just ate Panera for lunch. Disappointed that their were no cookies.
+I just ate Panera for lunch. Disappointed that there were no cookies.
